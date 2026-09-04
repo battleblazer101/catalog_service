@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+data/catalog.db
+.ven
+.idea/
+tools/
+
+
+
+
+tools/project_dump.txt
